@@ -51,7 +51,11 @@ TRUSTED_DOMAINS = [
     "forms.gle",
     "whatsapp.com",
     "chat.whatsapp.com",
-    "aicte-india.org"
+    "aicte-india.org",
+    "youtube.com",
+    "instagram.com",
+    "canva.com",
+    "youtu.be"
 ]
 
 
